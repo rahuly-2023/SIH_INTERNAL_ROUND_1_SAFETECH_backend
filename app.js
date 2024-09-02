@@ -26,7 +26,7 @@ app.use('/',patientRoute);
 
 
 
-mongoose.connect('mongodb+srv://rahul2483yadav:OycNLKTKvS7JeLxT@cluster0.3q3qi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', { useNewUrlParser: true, useUnifiedTopology: true });
+mongoose.connect('mongodb+srv://rahul2483yadav:OycNLKTKvS7JeLxT@cluster0.3q3qi.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
 
 
 
